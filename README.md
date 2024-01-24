@@ -1,0 +1,2 @@
+# exercise-javascript
+Javascript arrays
